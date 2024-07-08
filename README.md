@@ -6,3 +6,8 @@ This Repository contains all the **interview questions** and **answers** related
 2. [Alirez 🤩⭐](https://github.com/alirezadir/Machine-Learning-Interviews/) Best one to prepare
 3. [KhanGich](https://github.com/khangich/machine-learning-interview/)
 
+
+
+
+# Flash Cards 🤩
+1. [JessiCayung](https://github.com/jessicayung/machine-learning-flashcards)
